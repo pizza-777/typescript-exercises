@@ -1,3 +1,5 @@
+//https://typescript-exercises.github.io/
+
 export type User = {
     name: string,
     age: number,
